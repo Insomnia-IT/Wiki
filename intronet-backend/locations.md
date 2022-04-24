@@ -1,5 +1,5 @@
 # Локации фестиваля
-[<-- Вернуться назад](https://github.com/Insomnia-IT/Wiki/blob/main/README.md)
+[<-- Вернуться назад](https://github.com/Insomnia-IT/Wiki/blob/main/README.md#api)
 
 ### ОБЩАЯ ИНФОРМАЦИЯ ВСЕХ СТРАНИЦ API:
 Каждый запрос обрамлён в тело ответа:
