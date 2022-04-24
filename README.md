@@ -13,10 +13,10 @@
 3. Обеспечение фестиваля электронным способом голосования за понравившуюся им анимацию, для последующего конкурса зрительских симпатий.
 
 ### API
-[Локации](https://github.com/Insomnia-IT/Wiki/blob/main/intronet-backend/locations.md)
-[Тэги]
-[Расписание]
-[Голосование]
++ [Локации](https://github.com/Insomnia-IT/Wiki/blob/main/intronet-backend/locations.md)
++ [Тэги]
++ [Расписание]
++ [Голосование]
 
 ## 2. VP (Волонтёрский проект)
 ### Что это?
