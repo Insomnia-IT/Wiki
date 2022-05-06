@@ -1,4 +1,4 @@
-# Доска объявлений
+# Интеграция с Notion
 [<-- Вернуться назад](https://github.com/Insomnia-IT/Wiki/blob/main/README.md#api-2)
 
 ### ОБЩАЯ ИНФОРМАЦИЯ ВСЕХ СТРАНИЦ API:
