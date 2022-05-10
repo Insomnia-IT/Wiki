@@ -153,7 +153,7 @@ False в случае 400, 401, 404
 
 Роут:
 
-`/api/notes/all`
+`/api/notes/categories`
 
 Вовращает массив:
 	
