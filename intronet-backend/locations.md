@@ -387,4 +387,4 @@ False в случае 400, 401, 404
 
 ## Расписание
 
-Расписание указано на отдельной старнице, как и модели по ним -> [--> ЗДЕСЬ <--](https://github.com/Insomnia-IT/Wiki/blob/main/intronet-backend/timetable.md)
+Расписание указано на отдельной старнице, как и модели по ним [--> ЗДЕСЬ <--]([https://github.com/Insomnia-IT/Wiki/blob/main/intronet-backend/timetable.md](https://github.com/Insomnia-IT/Wiki/blob/main/intronet-backend/timetable.md#%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D0%B9))
